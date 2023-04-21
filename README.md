@@ -1,3 +1,9 @@
+# 💫 About Me:
+Hi👋 I'm Miłosz <br>
+I'm young programmer from Poland. I'm currently learn in technical school on Programmer profile. <br>
+I'm currently learn JavaScript and Bootstrap. In the near future, I plan to learn React. <br>
+I am at the very beginning of my adventure with programming so I will be grateful for any advice.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mi%C5%82osz-ku%C5%82ak-047948223/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21484741) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/MiloszKulak) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/nisser111) 
