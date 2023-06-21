@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi👋 I'm Miłosz <br>
 I'm young programmer from Poland. I'm currently learn in technical school on Programmer profile. <br>
-I'm currently learn JavaScript and Bootstrap. In the near future, I plan to learn React. <br>
+I'm currently learn JavaScript and Bootstrap. In the near future, I'm going to learn React. <br>
 I am at the very beginning of my adventure with programming so I will be grateful for any advice.
 
 
