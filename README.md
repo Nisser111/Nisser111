@@ -5,7 +5,7 @@
 <p align="left">I'm a young programmer from Poland.
   
   - 🏫I'm student of high school on programmer profile
-  - 📚I'm currently learning Angular
+  - 📚I'm currently learning Angular and Spring Boot 3
   - ⚡In my free time I'm reaching for how to better implement AI to my life and work and reading articles
 </p>
 
