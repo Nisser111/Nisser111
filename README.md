@@ -15,7 +15,7 @@ I am a passionate software developer from Poland, focused on building scalable w
 
 ### ✉️ Let's Connect
 <div align="left">
-  <a href="https://www.linkedin.com/in/miłosz-kułak-047948223/">
+  <a href="https://www.linkedin.com/in/milosz-kulak">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin" />
   </a>
   <a href="mailto:kulakmilosz2006@gmail.com">
